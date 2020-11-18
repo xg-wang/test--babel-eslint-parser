@@ -55,5 +55,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.12.1"
   }
 }
