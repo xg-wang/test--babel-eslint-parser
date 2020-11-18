@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'babel-eslint-parser',
+    modulePrefix: 'test--babel-eslint-parser',
     environment,
     rootURL: '/',
     locationType: 'auto',

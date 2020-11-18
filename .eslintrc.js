@@ -12,6 +12,7 @@ module.exports = {
     }
   },
   plugins: [
+    '@babel',
     'ember'
   ],
   extends: [

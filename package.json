@@ -2,7 +2,7 @@
   "name": "test--babel-eslint-parser",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for babel-eslint-parser goes here",
+  "description": "Small description for test--babel-eslint-parser goes here",
   "repository": "",
   "license": "MIT",
   "author": "",
@@ -20,6 +20,8 @@
     "test:ember": "ember test"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.12.1",
+    "@babel/eslint-plugin": "^7.12.1",
     "@ember/optional-features": "^1.3.0",
     "@glimmer/component": "^1.0.0",
     "@glimmer/tracking": "^1.0.0",
@@ -56,7 +58,5 @@
   "ember": {
     "edition": "octane"
   },
-  "dependencies": {
-    "@babel/eslint-parser": "^7.12.1"
-  }
+  "dependencies": {}
 }
